@@ -1,0 +1,5 @@
+com\jb\demo\service\StudentService.class
+com\jb\demo\DemoApplication.class
+com\jb\demo\entity\Student.class
+com\jb\demo\repository\StudentRepository.class
+com\jb\demo\controller\studentController.class
